@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "System",
+      "email": "system@localhost",
+      "password": "samplesystempassword",
+      "created_at": "2018-07-16T07:32:20.421Z"
+    },
+    {
+      "id": 2,
+      "name": "Administrator",
+      "email": "admin@localhost",
+      "password": "admin",
+      "created_at": "2018-07-16T07:32:20.421Z"
+    },
+    {
+      "id": 3,
+      "name": "User",
+      "email": "user@localhost",
+      "password": "sampleuserpassword",
+      "created_at": "2018-07-16T07:32:20.421Z"
+    },
+    {
+      "id": 4,
+      "name": "Jason",
+      "email": "jason@localhost",
+      "password": "samplejasonpassword",
+      "created_at": "2018-07-16T07:32:20.421Z"
+    }
+  ]
+}
